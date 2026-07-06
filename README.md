@@ -89,7 +89,7 @@ profile.daily_routine()
 ```
  
 > 🎯 B.E CSE student at **Panimalar Engineering College**, deeply passionate about AI, ML & Data Science.
-> Selected as **IIT Ropar AI/ML Research Intern** (Jun–Aug 2025). Built real-world fraud detection systems & AI compilers at national hackathons. I believe in **learning by building**.
+> Selected as **IIT patna AI/ML learner** . Built real-world projects. I believe in **learning by building**.
  
 ---
  
@@ -102,27 +102,27 @@ profile.daily_routine()
   </tr>
   <tr>
     <td>🔭 Currently at</td>
-    <td>AI & ML Research — <b>IIT Ropar</b> (Starting June 15, 2025 · 2 months)</td>
+    <td>AI & ML Learner — <b>IIT patna</b> </td>
   </tr>
   <tr>
     <td>🏆 Hackathons</td>
-    <td>IntelliTrace'26 @ VIT Chennai · Neuro Compiler @ Sathakthon 2.0</td>
+    <td></td>
   </tr>
   <tr>
     <td>💼 Internships</td>
-    <td>IIT Ropar (AI/ML) · TANSAM (Data Analytics) · CodSoft (Data Science) · InternPro (Cloud)</td>
+    <td></td>
   </tr>
   <tr>
     <td>🌱 Learning</td>
-    <td>Graph Neural Networks, LLMs, MLOps, AWS, Vector DBs</td>
+    <td>Graph Neural Networks, AWS, Vector DBs</td>
   </tr>
   <tr>
     <td>💬 Ask me about</td>
-    <td>Python, CNN, Fraud Detection, NLP, Pandas, Graph Intelligence</td>
+    <td>Python, CNN,  Pandas,Numpy, Graph Intelligence</td>
   </tr>
   <tr>
     <td>📫 Reach me</td>
-    <td>dhinithmuruganantham@gmail.com</td>
+    <td>kumark94223@gmail.com</td>
   </tr>
 </table>
 ---
