@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?
        type=waving          <!-- this makes the wave shape -->
-       &color=FF0000        <!-- this sets the red color -->
+       &color=FF0000        <!-- this sets the red background -->
        &height=220
        &section=header
        &text=BOOBALAN%20KUMAR
@@ -13,6 +13,7 @@
        &descSize=16
        &animation=fadeIn" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%26+CNN+Builder+%F0%9F%A7%A0;Real-Time+project+%7C+%F0%9F%94%8D;Neuro+Compiler+%7C+%F0%9F%A7%AC;IIT+patna+AI+%26+ML+%F0%9F%8F%86;B.E+CSE+%40+Panimalar+Engineering+College+%F0%9F%8E%93;Welcome+to+my+GitHub+%F0%9F%91%8B" />
 </p>
