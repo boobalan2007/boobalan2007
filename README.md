@@ -41,9 +41,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhinith2007&label=Profile+Views&color=FF2D2D&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=boobalan2007&label=Profile+Views&color=FF2D2D&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/dhinith2007?label=Followers&style=flat-square&color=FF2D2D" />
+  <img src="https://img.shields.io/github/followers/boobalan2007?label=Followers&style=flat-square&color=FF2D2D" />
   &nbsp;
   <img src="https://img.shields.io/badge/IIT%20Ropar-AI%20%26%20ML%20Intern-FF2D2D?style=flat-square&logo=academia&logoColor=white" />
 </p>
