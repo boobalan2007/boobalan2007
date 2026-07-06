@@ -171,15 +171,15 @@ profile.daily_routine()
 ## 📫 Let's Connect!
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhinith-pragalyan-m-8a0061355">
+  <a href="https://www.linkedin.com/in/boobalan6">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/_dhinith_07_/">
+  <a href="https://www.instagram.com/_bxbaln._/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:dhinithmuruganantham@gmail.com">
+  <a href="mailto:kumark94223@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
