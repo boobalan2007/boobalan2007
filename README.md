@@ -51,38 +51,41 @@
  
 ## 👨‍💻 About Me
  
-```java
-public class DhinithPragalyan {
- 
-    String name       = "Dhinith Pragalyan M";
-    String degree     = "B.E - Computer Science Engineering";
-    String college    = "Panimalar Engineering College, Tamil Nadu 🏫";
-    String internship = "IIT Ropar — AI & ML Research Intern (Jun 15 – Aug 2025) 🏆";
- 
-    String[] passions = {
-        "Machine Learning 🤖",
-        "Artificial Intelligence 🧠",
-        "Fraud Detection Systems 🔍",
-        "Data Science & Analytics 📊",
-        "Full Stack + LLM Applications 🌐"
-    };
- 
-    String[] currentlyLearning = {
-        "Deep Learning & CNN Architectures",
-        "Graph Intelligence (NetworkX)",
-        "LLM Integration & LangChain",
-        "MLOps & Cloud Deployment (AWS, Render)"
-    };
- 
-    String goal = "Build intelligent systems that solve real-world problems 🚀";
- 
-    public void dailyRoutine() {
-        doAIResearchAtIITRopar();
-        buildHackathonProjects();
-        solveLeetCodeProblems();
-        learnAndGrow();
-    }
-}
+```python
+class Boobalan.K:
+    def __init__(self):
+        self.name = "Boobalan k"
+        self.degree = "B.E - Computer Science Engineering"
+        self.college = "Panimalar Engineering College, Tamil Nadu 🏫"
+        self.learner = "IIT patna — AI & Ml program 🏆"
+
+        self.passions = [
+            "Machine Learning 🤖",
+            "Artificial Intelligence 🧠",
+            "Data Science & Analytics 📊",
+        ]
+
+        self.currently_learning = [
+            "Deep Learning & CNN Architectures",
+            " Cloud Deployment (AWS, Render)"
+        ]
+
+        self.goal = "Build intelligent systems that solve real-world problems 🚀"
+
+    def daily_routine(self):
+        print("Doing AI Research ...")
+        print("Building The Real Time Projects...")
+        print("Building Hackathon Projects...")
+        print("Solving LeetCode Problems...")
+        print("Learning and Growing...")
+
+# Example usage
+profile = Boobalan k()
+print(profile.name)
+print(profile.degree)
+print(profile.goal)
+profile.daily_routine()
+
 ```
  
 > 🎯 B.E CSE student at **Panimalar Engineering College**, deeply passionate about AI, ML & Data Science.
