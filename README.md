@@ -45,7 +45,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/boobalan2007?label=Followers&style=flat-square&color=FF2D2D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IIT%20Ropar-AI%20%26%20ML%20Intern-FF2D2D?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIT%20patna-AI%20%26%20ML%20program-FF2D2D?style=flat-square&logo=academia&logoColor=white" />
 </p>
 ---
  
