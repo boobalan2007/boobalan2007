@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?   type=waving&color=00FF00&height=220&section=header&text=BOOBALAN%20kumar%20&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=B.E%20CSE%20%7C%20Panimalar%20Engineering%20College%20%7C%20IIT%20patna%20AI%2FML%20&descAlignY=56&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?    
+    type=waving&color=00FF00&height=220&section=header&text=BOOBALAN%20kumar%20&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=B.E%20CSE%20%7C%20Panimalar%20Engineering%20College%20%7C%20IIT%20patna%20AI%2FML%20&descAlignY=56&descSize=16&animation=fadeIn" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%26+CNN+Builder+%F0%9F%A7%A0;Real-Time+Fraud+Detection+%7C+IntelliTrace'26+%F0%9F%94%8D;Neuro+Compiler+%7C+Sathakthon+2.0+%F0%9F%A7%AC;IIT+Ropar+AI+%26+ML+Intern+%F0%9F%8F%86;B.E+CSE+%40+Panimalar+Engineering+College+%F0%9F%8E%93;Welcome+to+my+GitHub+%F0%9F%91%8B" />
