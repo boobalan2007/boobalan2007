@@ -172,18 +172,18 @@ profile.daily_routine()
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhinith2007&show_icons=true&theme=radical&title_color=FF2D2D&icon_color=FF2D2D&border_color=FF2D2D&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhinith2007&theme=radical&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&border=FF2D2D" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boobalan2007&show_icons=true&theme=radical&title_color=FF2D2D&icon_color=FF2D2D&border_color=FF2D2D&hide_border=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobalan2007&theme=radical&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&border=FF2D2D" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinith2007&layout=compact&theme=radical&title_color=FF2D2D&border_color=FF2D2D&langs_count=8" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobalan2007&layout=compact&theme=radical&title_color=FF2D2D&border_color=FF2D2D&langs_count=8" width="48%"/>
 </p>
 ---
  
 ## 🏆 GitHub Trophies
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhinith2007&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=boobalan2007&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7"/>
 </p>
 ---
  
