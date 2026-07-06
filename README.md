@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_dhinith_07_/" target="_blank">
+  <a href="https://www.instagram.com/_bxbaln._/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
